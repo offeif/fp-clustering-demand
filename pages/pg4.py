@@ -12,7 +12,7 @@ dash.register_page(__name__,
 )
 
 # page 2 data
-df = pd.read_csv('test_df_net.csv')
+df = pd.read_csv('test_df_d6.csv')
 
 # cluster_1 = pd.read_csv('datasets/cluster_1.csv')
 # cluster_2 = pd.read_csv('datasets/cluster_2.csv')
